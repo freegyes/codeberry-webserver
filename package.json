@@ -1,0 +1,22 @@
+{
+  "name": "webserver",
+  "version": "1.0.0",
+  "description": "This is a simple node.js webserver",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freegyes/codeberry-webserver.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "freegyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freegyes/codeberry-webserver/issues"
+  },
+  "homepage": "https://github.com/freegyes/codeberry-webserver#readme"
+}
